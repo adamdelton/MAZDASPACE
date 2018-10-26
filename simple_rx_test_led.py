@@ -19,7 +19,7 @@ import os
 from dotstar import Adafruit_DotStar
 
 numpixels = 77
-brightness = 32
+brightness = 128
 
 datapin = 23
 clockpin = 24
